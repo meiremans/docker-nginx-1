@@ -1,3 +1,8 @@
+This is a fork of the NGINX docker image. 
+This will build a docker image without default exposed ports.
+the dockerfile inside /mainline/stretch is published in docker hub under:
+meiremans/official-docker-nginx-without-exposed-port-80
+
 # About this Repo
 
 This is the Git repo of the official Docker image for [nginx](https://registry.hub.docker.com/_/nginx/). See the
